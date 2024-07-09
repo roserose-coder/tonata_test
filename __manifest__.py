@@ -5,8 +5,10 @@
     'description': "Create checking before saving values on res.partner models",
     'depends': [
         # 'base',
-        # 'account',
+          'account',
         # 'sale_management'
+        # 'base_accounting_kit',
+        # 'point_of_sale'
 
     ],
     'data': [
